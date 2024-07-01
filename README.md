@@ -36,4 +36,4 @@ The project starts with gathering a dataset containing news articles labeled as 
 - **Evaluation:** Assessing model performance using metrics like accuracy, precision, recall, and confusion matrix to measure how well the models classify fake and real news.
 
 
-[Dataset Link](http://www.example.com](https://drive.google.com/file/d/1q5jpI5M1EA9x3YPrLupmiu3gffkmGlHj/view)
+[Dataset Link](https://drive.google.com/file/d/1q5jpI5M1EA9x3YPrLupmiu3gffkmGlHj/view)
